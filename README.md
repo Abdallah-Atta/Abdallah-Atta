@@ -7,7 +7,7 @@
 -🏫 I am currently a third-year student pursuing a degree in Artificial Intelligence, with a strong passion for Data. I have earned the IBM Data Analysis Professional Certificate and have been dedicated to learning data analysis and BI development for the past two years.
 
 - 🔭  I'm currently seeking a job opportunity as a **Data Analyst | BI Developer**
-- 🌱  I have practical experience with **Power BI**, **Excel**, and **Python**, and have worked on several projects involving **SQL** and **SSIS** and **SSAS** and **SSRS**.
+- 🌱  I have practical experience with **Power BI**, **Excel**, **Python** And **Web Scraping**, and have worked on several projects involving **SQL** and **SSIS** and **SSAS** and **SSRS**.
 - 🌱  My skills are well-honed in data analysis and reporting, with a focus on delivering insightful and actionable business intelligence.
 - 👯  I’m looking for **a job opportunity to help me learn and prove my skills and assist in completing the work in a professional manner.**
 - 📫  How to reach me **abdalaatta72@gmail.com**.
