@@ -1,11 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm ِAbdallah Atta</h1>
+<h3 align="center">Data Analyst | BI Developer</h3>
 
-<!--
-**Abdallah-Atta/Abdallah-Atta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-🏫 I am currently a third-year student pursuing a degree in Artificial Intelligence, with a strong passion for Data. I have earned the IBM Data Analysis Professional Certificate and have been dedicated to learning data analysis and BI development for the past two years. I have practical experience with Power BI, Excel, and Python, and have worked on several projects involving SQL and SQL BI. My skills are well-honed in data analysis and reporting, with a focus on delivering insightful and actionable business intelligence.
 
-- 🔭 I’m currently working on ...
+-🔭 I'm currently seeking a job opportunity as a **Data Analyst | BI Developer**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
