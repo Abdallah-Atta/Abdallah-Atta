@@ -52,9 +52,9 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Power_BI_Logo.png" alt="powerbi" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Microsoft_Excel_Logo_%282013%E2%80%932018%29.png" alt="excel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Excel_Logo.svg" alt="excel" width="40" height="40"/>
   </a>
 </p>
