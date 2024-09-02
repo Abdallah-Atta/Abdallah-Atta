@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ِAbdallah Atta</h1>
-<h3 align="center">Data Analyst | BI Developer</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst +|+ BI+DeveloperEngineer"         alt="Typing SVG" /></a>
+</p> 
 
 
 -🏫 I am currently a third-year student pursuing a degree in Artificial Intelligence, with a strong passion for Data. I have earned the IBM Data Analysis Professional Certificate and have been dedicated to learning data analysis and BI development for the past two years.
