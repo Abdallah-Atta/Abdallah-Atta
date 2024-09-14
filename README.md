@@ -18,13 +18,18 @@
 
 <p align="center">
     <a href="mailto:abdalaatta72@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-    <a href="https://www.linkedin.com/in/abdallah--atta/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.novypro.com/profile_about/abdallah-atta" title="NovyPro">
-        <span style="display: inline-block; background-color: #0077B5; padding: 4px 12px; border-radius: 4px; color: white; font-weight: bold;">
-            <img src="https://i.imgur.com/C5lBd4O.png" alt="NovyPro Logo" style="height:20px; vertical-align:middle;"/> NovyPro
+    <a href="https://www.linkedin.com/in/abdallah--atta/" title="LinkedIn" style="text-decoration: none;">
+        <span style="display: inline-block; background-color: #0077B5; padding: 5px 10px; border-radius: 4px; color: white; font-weight: bold;">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 20px; vertical-align: middle;"> LINKEDIN
+        </span>
+    </a>
+    <a href="https://www.novypro.com/profile_about/abdallah-atta" title="NovyPro" style="text-decoration: none; margin-left: 10px;">
+        <span style="display: inline-block; background-color: #ffffff; padding: 5px 10px; border-radius: 4px; border: 1px solid #0077B5; color: #0077B5; font-weight: bold;">
+            <img src="https://i.imgur.com/C5lBd4O.png" alt="NovyPro Logo" style="height: 20px; vertical-align: middle;"> NovyPro
         </span>
     </a>
 </p>
+
 
 
 
