@@ -19,8 +19,9 @@
 <p align="center">
     <a href="mailto:abdalaatta72@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
     <a href="https://www.linkedin.com/in/abdallah--atta/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.novypro.com/profile_about/abdallah-atta" title="NovyPro"><img src="https://img.shields.io/badge/novypro-%231a1a1a.svg?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
+    <a href="https://www.novypro.com/profile_about/abdallah-atta" title="NovyPro"><img src="DIRECT_IMAGE_URL" alt="NovyPro Logo" style="height:28px;"/></a>
 </p>
+
 
 
 
