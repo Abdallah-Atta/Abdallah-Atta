@@ -10,26 +10,9 @@
 - 🌱  I have practical experience with **Power BI**, **Excel**, **Python** And **Web Scraping**, and have worked on several projects involving **SQL** and **SSIS** and **SSAS** and **SSRS**.
 - 🌱  My skills are well-honed in data analysis and reporting, with a focus on delivering insightful and actionable business intelligence.
 - 👯  I’m looking for **a job opportunity to help me learn and prove my skills and assist in completing the work in a professional manner.**
-- 📫  How to reach me **abdalaatta72@gmail.com**.
-- 
--->
+- 📄 Know about my experiences: this is [MY RESUME](https://drive.google.com/file/d/1oTxgOrM4ShSKQgp9t-8N1SV3O1IOAoQd/view).
+
   
-## 📩 Contact with me
-
-<p align="center">
-    <a href="mailto:abdalaatta72@gmail.com" title="Gmail">
-        <img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>  
-    <a href="https://www.linkedin.com/in/abdallah--atta/" title="LinkedIn">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.novypro.com/profile_about/abdallah-atta" title="NovyPro">
-        <img src="https://i.imgur.com/C5lBd4O.png" alt="NovyPro Logo" style="height:28px; border-radius: 4px; border: 1px solid #0077B5;" />
-    </a>
-</p>
-
-
-
 ## 🛠 Languages and Tools
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -65,14 +48,4 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
-  </a>
-</p>
-
+  <a href="https://www.tensorflow.org" target="_blank" rel
