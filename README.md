@@ -30,7 +30,6 @@
 
 
 
-
 ## 🛠 Languages and Tools
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -70,9 +69,10 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://imgur.com/kKXqzXn" alt="powerbi" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://imgur.com/Bm9rLME" alt="excel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Excel_Logo.svg" alt="excel" width="40" height="40"/>
   </a>
 </p>
+
