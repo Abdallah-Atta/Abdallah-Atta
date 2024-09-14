@@ -10,8 +10,7 @@
 - 🌱  I have practical experience with **Power BI**, **Excel**, **Python** And **Web Scraping**, and have worked on several projects involving **SQL** and **SSIS** and **SSAS** and **SSRS**.
 - 🌱  My skills are well-honed in data analysis and reporting, with a focus on delivering insightful and actionable business intelligence.
 - 👯  I’m looking for **a job opportunity to help me learn and prove my skills and assist in completing the work in a professional manner.**
-- 📄 Know about my experiences: this is [MY RESUME](https://drive.google.com/file/d/1oTxgOrM4ShSKQgp9t-8N1SV3O1IOAoQd/view).
-
+- 📄 Know about my experiences: this is [MY RESUME](https://drive.google.com/file/d/1iAKDVR18783e3jVkUsY_PmbQ21BKPmyl/view?usp=drive_link).
 
 
 ## 📩 Contact with me
