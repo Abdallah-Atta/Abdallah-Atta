@@ -22,7 +22,7 @@
     <a href="www.linkedin.com/in/a-atta" title="LinkedIn">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.novypro.com/profile_about/abdallah-atta" title="NovyPro">
+    <a href="https://my.novypro.com/abdallah-atta" title="NovyPro">
         <img src="https://i.imgur.com/C5lBd4O.png" alt="NovyPro Logo" style="height:28px; border-radius: 4px; border: 1px solid #0077B5;" />
     </a>
 </p>
